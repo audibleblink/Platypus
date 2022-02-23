@@ -1,0 +1,7 @@
+name: "mirror"
+kind: template
+load: rebase.yaml
+data:
+  user: WangYihang
+  repo: Platypus
+  branch: master
